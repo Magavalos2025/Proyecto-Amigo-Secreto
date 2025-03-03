@@ -9,6 +9,7 @@
 <h2> A un "Click" de Distancia 🖱️ </h2>
 <p> Los pasos a seguir son:</p>
 <p> 1. Abrir el link del sitio</p>
+(https://magavalos2025.github.io/Proyecto-Amigo-Secreto/)
 <p> 2. Escribir los nombres de a uno a la vez. Click en "añadir"</p>
 <img src="https://github.com/user-attachments/assets/b2b309a9-0c09-45ce-8351-c74fea11d969" width="300"> 
 <p> 3. Una vez agregados todos los nombres, click en "Sortear amigo"</p>
